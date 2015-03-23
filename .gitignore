@@ -1,0 +1,10 @@
+.idea/
+out/
+*.iws
+*.iml
+config/
+target/
+deploy.sh
+es*/
+src/main/resources/org/lutra/cpa/config.properties
+dump.json
