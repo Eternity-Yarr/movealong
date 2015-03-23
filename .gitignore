@@ -5,6 +5,6 @@ out/
 config/
 target/
 deploy.sh
-es*/
+es?
 src/main/resources/org/lutra/cpa/config.properties
 dump.json
